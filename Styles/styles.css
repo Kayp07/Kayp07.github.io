@@ -2,7 +2,7 @@ p{
 
 
     color: black;
-    font-weight: normal;
+    font-weight: ;
     font-size:medium;
 }
 
@@ -40,7 +40,7 @@ p{
         }
 
         header, section, .image-container {
-            max-width: 1400px;
+            max-width: 1200px;
             margin: 20px Auto;
         }
 
